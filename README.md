@@ -18,7 +18,7 @@ People in western China often complain about not having enough health care, whil
 
 There's always a saying in China that people in wealthy eastern regions are reluctant to have children and intolerant of incompatible spouses. I investigated the birth rate and the crude divorce rate by provincial regions. According to the two maps, neither of the crude divorce rate and the birth rate has a strong connection to the regional economic condition. In fact, these two rates are more related to regional culture. In areas with male-dominant cultures like Shandong and the southern coastal regions, people have a real passion, but they are often unwilling to divorce because it's shameful in their culture. In western regions in China, many people refused the birth-control policies because of religious reasons, so birth rates are very high in these areas. In eastern coastal areas with a  competitive culture, many people are cautious before choosing to get married and have children, so both of the birth rate and divorce rate are relatively low. In summary, money doesn't have a deterministic effect on marriage or having children, so this wide-spread saying is a rumor.
 
-## Famous saying 3: Living in a wealthy region = Better Education
+## Famous saying 3: Living in a wealthy region = Better education
 ![higher education](/images/het.png)
 ![male illiteracy rate](/images/milrate.png)
 ![female illiteracy rate](/images/filrate.png)
